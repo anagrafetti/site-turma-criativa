@@ -1,0 +1,10 @@
+.cabecalho{
+    background-color: rgb(187, 187, 187);
+    color: black;
+    display: flex;
+    justify-content: space-around;
+}
+
+.cabecalho-imagem{
+    width: 10%;
+}
